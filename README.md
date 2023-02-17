@@ -5,7 +5,7 @@
 </p>
 
 ## Directory structure
-```java
+```
 blog_file
 ├──────────────────────────────
 ├── 工具篇            
